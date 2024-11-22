@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501234488153",
+    "project_id": "maria-store-9c76b",
+    "storage_bucket": "maria-store-9c76b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501234488153:android:7d2bc4cf116bdb42e43248",
+        "android_client_info": {
+          "package_name": "br.com.magno.maria_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB53uNp8r0g2RL6an3BrMcBgdDMKVhwaoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
